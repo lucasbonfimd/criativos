@@ -2,9 +2,12 @@
 
 Quais ferramentas usamos para gerar criativos e como acessá-las.
 
-## Vídeo: Kling (via Higgsfield)
-Não existe conector oficial do Kling no Claude. Usamos os modelos Kling pelo
-conector **Higgsfield**, que já está ligado e cobra por créditos da conta Higgsfield.
+## Vídeo: Kling
+**Conector oficial (preferido):** o Kling tem MCP oficial em `https://kling.ai/mcp`.
+Adicionado no claude.ai em Customize → Connectors → Add custom connector, com login na
+conta Kling (usa os créditos da conta Kling). Instruções: https://kling.ai/app/mcp
+
+**Alternativa:** os mesmos modelos via conector **Higgsfield** (créditos Higgsfield):
 
 | Modelo | Quando usar |
 |---|---|
