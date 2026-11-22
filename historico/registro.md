@@ -2,6 +2,10 @@
 
 Entrada mais recente no topo.
 
+## 2026-11-22
+- Conector oficial do Kling conectado e testado (login ok, sem gerar nada).
+- Próximo passo: instalar a skill do amigo no repositório e na conta.
+
 ## 2026-11-21
 - Definido que esta atividade será registrada continuamente em `lucasbonfimd/criativos`.
 - Revisadas a estrutura e as instruções existentes do repositório.

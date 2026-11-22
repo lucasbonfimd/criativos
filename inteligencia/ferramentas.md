@@ -6,6 +6,9 @@ Quais ferramentas usamos para gerar criativos e como acessá-las.
 **Conector oficial (preferido):** o Kling tem MCP oficial em `https://kling.ai/mcp`.
 Adicionado no claude.ai em Customize → Connectors → Add custom connector, com login na
 conta Kling (usa os créditos da conta Kling). Instruções: https://kling.ai/app/mcp
+**Status:** conectado e testado em 2026-11-22. Modelo padrão de vídeo: `kling-video-v4_0`
+(até 30 s); conta sem assinatura gera só em 720p. Cada geração é cobrada: nunca gerar
+"só para testar" sem confirmar com o usuário.
 
 **Alternativa:** os mesmos modelos via conector **Higgsfield** (créditos Higgsfield):
 
